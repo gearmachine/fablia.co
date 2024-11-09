@@ -1,0 +1,7 @@
+.bundle
+.cache
+.DS_Store
+.sass-cache
+build/
+.ruby-version
+vendor/
